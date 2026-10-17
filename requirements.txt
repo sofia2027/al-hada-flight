@@ -1,0 +1,7 @@
+numpy
+scipy
+pillow
+pyproj
+requests
+forge3d==1.44.0
+imageio-ffmpeg
